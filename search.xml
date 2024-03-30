@@ -41,8 +41,30 @@
     <content><![CDATA[<p>交流技术 分享感悟 记录生活</p>
 <p>Welcome to my blog! I celebrate the beauty of life and would like to share meaningful insights with you. Join me on this journey of exploration and discovery!</p>
 <h1 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h1><p>i人不愿多说</p>
-<img src="/2024/03/30/info/test.jpg" class="" title="picture">
+
 <h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><p>123123123</p>
 ]]></content>
+      <tags>
+        <tag>main</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>poem123</title>
+    <url>/2024/03/30/poem/</url>
+    <content><![CDATA[<p>eee<br>qasasfd<br>asdfasdf<br>asdfasdf</p>
+]]></content>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>poem_lb</title>
+    <url>/2024/03/30/poem-lb/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>poem1</title>
+    <url>/2024/03/30/poem1/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>

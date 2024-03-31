@@ -22,7 +22,7 @@
     <title>测试文章</title>
     <url>/2021/06/10/test-atricle/</url>
     <content><![CDATA[<p>这是一篇测试文章</p>
-<img src="/2021/06/10/test-atricle/test.jpg" class="" title="图片引用方法一">
+
 
 <!-- ![图片引用方法二](test.png)
 

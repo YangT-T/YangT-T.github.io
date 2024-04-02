@@ -19,18 +19,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>张浩洋</title>
-    <url>/2024/03/31/%E5%BC%A0%E6%B5%A9%E6%B4%8B/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>人</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>测试文章</title>
     <url>/2021/06/10/test-atricle/</url>
     <content><![CDATA[<p>这是一篇测试文章</p>
-
+<img src="/2021/06/10/test-atricle/test.jpg" class="" title="图片引用方法一">
 
 <!-- ![图片引用方法二](test.png)
 
@@ -41,6 +33,14 @@
       </categories>
       <tags>
         <tag>原创</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>张浩洋</title>
+    <url>/2024/03/31/%E5%BC%A0%E6%B5%A9%E6%B4%8B/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>人</tag>
       </tags>
   </entry>
   <entry>

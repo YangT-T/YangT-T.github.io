@@ -22,11 +22,11 @@
     <title>测试文章</title>
     <url>/2021/06/10/test-atricle/</url>
     <content><![CDATA[<p>这是一篇测试文章</p>
-<img src="/2021/06/10/test-atricle/test.jpg" class="" title="图片引用方法一">
+<!-- <img src="/2021/06/10/test-atricle/test.jpg" class="" title="图片引用方法一"> -->
 
-<!-- ![图片引用方法二](test.png)
-
-![图片引用方法三](/images/test.png) -->
+<p><img src="/./test-atricle/test.jpg" alt="图片引用方法二"></p>
+<p><img src="https://drive.google.com/file/d/110MB7hfnJXeYYRiZbYOxdFULa9FKiRAw/view?usp=drive_link" alt="图片引用方法二"></p>
+<!-- ![图片引用方法三](/images/test.png) -->
 ]]></content>
       <categories>
         <category>Java</category>

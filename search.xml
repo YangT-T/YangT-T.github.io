@@ -1,49 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/03/30/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试文章</title>
-    <url>/2021/06/10/test-atricle/</url>
-    <content><![CDATA[<p>这是一篇测试文章</p>
-<img src="/2021/06/10/test-atricle/test.jpg" class="" title="图片引用方法一">
-
-<!-- ![图片引用方法二](test.png)
-
-![图片引用方法三](/images/test.png) -->
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>原创</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>张浩洋</title>
-    <url>/2024/03/31/%E5%BC%A0%E6%B5%A9%E6%B4%8B/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>人</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>月下独酌</title>
     <url>/2024/03/31/%E6%9C%88%E4%B8%8B%E7%8B%AC%E9%85%8C/</url>
     <content><![CDATA[<center><font size=5 >月下独酌<font></center>
@@ -65,6 +22,51 @@
       </categories>
       <tags>
         <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>侠客行</title>
+    <url>/2024/04/04/%E4%BE%A0%E5%AE%A2%E8%A1%8C/</url>
+    <content><![CDATA[<center><font size=5 >侠客行<font></center>
+
+<font size=3 face="宋体">
+<center>唐 李白</center>
+
+<font size=4 face="楷体">
+<center>赵客缦胡缨 吴钩霜雪明</center>
+<center>银鞍照白马 飒沓如流星</center>
+<center>十步杀一人 千里不留行</center>
+<center>事了拂衣去 深藏身与名</center>
+<center>闲过信陵饮 脱剑膝前横</center>
+<center>将炙啖朱亥 持觞劝侯嬴</center>
+<center>三杯吐然诺 五岳倒为轻</center>
+<center>眼花耳热后 意气素霓生</center>
+<center>救赵挥金槌 邯郸先震惊</center>
+<center>千秋二壮士 烜赫大梁城</center>
+<center>纵死侠骨香 不惭世上英</center>
+<center>谁能书阁下 白首太玄经</center>
+]]></content>
+      <categories>
+        <category>literature</category>
+      </categories>
+      <tags>
+        <tag>poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>紫竹园</title>
+    <url>/2024/04/06/%E7%B4%AB%E7%AB%B9%E5%9B%AD/</url>
+    <content><![CDATA[<p>拍摄地点：紫竹园</p>
+<p><img src="https://img2.imgtp.com/2024/04/07/ccs9iMab.jpg"></p>
+<p><img src="https://img2.imgtp.com/2024/04/07/jj2Icss8.jpg"></p>
+<p><img src="https://img2.imgtp.com/2024/04/07/plAqkw6z.jpg"></p>
+]]></content>
+      <categories>
+        <category>photography</category>
+      </categories>
+      <tags>
+        <tag>moments</tag>
+        <tag>trip</tag>
       </tags>
   </entry>
 </search>

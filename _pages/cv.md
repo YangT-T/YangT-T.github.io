@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in AI, The University of Hong Kong, 2026 (expected)
+* B.S. in CS, Beijing Institute of Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Researcher
+  * Beijing Institute of Technology
+  * Duties includes: Finish Graduation Article on the intersection of Game Theory and AI
+  * Supervisor: Yu Haoran
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Software Developer
+  * Microsoft for Startups
+  * Duties included: develop a RAG system to enhance the functionality of the Q&A platform
+  * Mentor: Yu Rong
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Software Developer
+  * Shanghai Yaocheng Health Technology
+  * Duties included: backend development and automated testing
+  * Mentor: Yang Siyuan
   
 Skills
 ======

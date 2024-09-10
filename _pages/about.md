@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a fist year MSc(AI) student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [HKU](https://www.hku.hk/). My research interest includes Natural Language Processing, Deep Learning, Optimization, Trustworthy Machine Learning.
+
+I am very fortunate to be advised by [Prof. YU Haoran](https://yu-haoran.github.io/) from [School of Computer Science](https://cs.bit.edu.cn/), Beijing Institute of Technology.
+
+I previously interned at [Microsoft Accelerator](https://www.microsoft.com/zh-cn/aprd/innovation/msftventures) developing RAG system. I also interned at [AURORA](https://www.yaocheng.cn/) as a software developer.
+
+You can find my CV here: [Yang Hao's Curriculum Vitae](../assets/CV_YangHao.pdf)
+
 
 A data-driven personal website
 ======

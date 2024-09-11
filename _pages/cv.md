@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * M.S. in AI, The University of Hong Kong, 2026 (expected)
-* B.S. in CS, Beijing Institute of Technology, 2024
+* B.E. in CS, Beijing Institute of Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Researcher
+* Spring 2024: Lab Collaborator
   * Beijing Institute of Technology
   * Duties includes: Finish Graduation Article on the intersection of Game Theory and AI
   * Supervisor: Yu Haoran
@@ -34,7 +34,7 @@ Work experience
 Skills
 ======
 * Knowledge Base
-  * Athematical Analysis, Linear Algebra, Probability and Statistics
+  * Mathematical Analysis, Linear Algebra, Probability and Statistics
   * Data Structure, Computer Network, Operating System
   * Machine Learning, Reinforcement Learning, Computer Vision, Natural Language Processing
 * Programming Skills
